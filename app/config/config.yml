@@ -3,8 +3,6 @@ imports:
     - { resource: security.yml }
     - { resource: services.yml }
     - { resource: "@DimeTimetrackerBundle/Resources/config/config.yml" }
-    - { resource: "@DimeTimetrackerFrontendBundle/Resources/config/config.yml" }
-    - { resource: "@DimeReportBundle/Resources/config/config.yml" }
 
 framework:
     #esi:             ~
